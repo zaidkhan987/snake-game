@@ -1,1 +1,1 @@
-https://snake-game-saylani.netlify.app
+https://snake-game-zaid.netlify.app
